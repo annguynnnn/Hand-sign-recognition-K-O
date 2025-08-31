@@ -8,6 +8,12 @@ Build **three** models and compare their accuracy: a **Custom CNN**, **MobileNet
 - **MobileNetV2**
 - **ResNet-50**
 
+## 📦 Installation
+Install dependencies:
+```bash
+pip install -r requirements.txt
+```
+
 ## 📊 Results
 | Model        | Validation Accuracy | Test Accuracy |
 |--------------|--------------------:|--------------:|
